@@ -4,15 +4,17 @@
 
 # Features
 
-[Next.js](https://nextjs.org/)、Type Scriptで作成したECサイトです🌟 
-【実装内容】
-・ログインページ
-・新規ユーザ登録ページ
-・一覧表示ページ
-・商品詳細表示ページ
-・カートページ
-・注文確認・決済ページ
-・決済完了ページ
+[Next.js](https://nextjs.org/)、[Type Script](https://www.typescriptlang.org/)で作成したECサイトです🌟 
+</br>
+【実装内容】　　
+</br>
+・ログインページ　　</br>
+・新規ユーザ登録ページ　　</br>
+・一覧表示ページ　　</br>
+・商品詳細表示ページ　　</br>
+・カートページ　　</br>
+・注文確認・決済ページ　　</br>
+・決済完了ページ　　</br>
 
 # Demo
 
