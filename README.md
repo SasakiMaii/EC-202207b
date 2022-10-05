@@ -8,14 +8,14 @@
 </br>
 【実装内容】　　
 </br>
-・ログインページ　　</br>
-・新規ユーザ登録ページ　　</br>
-・一覧表示ページ　　</br>
-・商品詳細表示ページ　　</br>
-・ログイン時カートページ　　</br>
-・未ログインカートページ　</br>
-・注文確認・決済ページ　　</br>
-・決済完了ページ　　</br>
+・ログインページ　　・・・（user/login.tsx）</br>
+・新規ユーザ登録ページ・・・（user/register.tsx）　　</br>
+・一覧表示ページ・・・（items/index.tsx）　　</br>
+・商品詳細表示ページ・・・（items/[id].tsx）　　</br>
+・ログイン時カートページ・・・（items/cart.tsx）　　</br>
+・未ログインカートページ・・・（items/logoutCart.tsx）　</br>
+・注文確認・決済ページ・・・（items/order_confirm.tsx）　　</br>
+・決済完了ページ・・・（items/ordercheckout.tsx）　　</br>
 
 # Demo
 
