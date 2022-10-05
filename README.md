@@ -1,4 +1,20 @@
-#About
-***
+# Name
 
-This is a [Next.js](https://nextjs.org/) project 
+「らくらくCoffee」
+
+# Demo
+
+
+# Features
+
+[Next.js](https://nextjs.org/)、Type Scriptで作成したECサイトです。 
+
+
+
+
+
+
+
+
+
+
