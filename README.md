@@ -1,6 +1,6 @@
 # Name
 
-「らくらくCoffee」・・・カフェのECサイト
+「らくらくCoffee」・・・架空のカフェのECサイトをチームで作成しました☕️
 
 # Features
 
@@ -12,7 +12,8 @@
 ・新規ユーザ登録ページ　　</br>
 ・一覧表示ページ　　</br>
 ・商品詳細表示ページ　　</br>
-・カートページ　　</br>
+・ログイン時カートページ　　</br>
+・未ログインカートページ　</br>
 ・注文確認・決済ページ　　</br>
 ・決済完了ページ　　</br>
 
@@ -28,11 +29,8 @@
 
 <img width='500' alt="localhost_3000_items_21" src="https://user-images.githubusercontent.com/110379185/194010496-d5acda7e-7e97-40df-adf2-c758044e809e.png">
 
-- ユースケース図
+- ユースケース図・・・既存のユースケース図を用いて、開発を担当しました。
 <img width='500' alt="20221005-1654_8660bf8117f6b58ec6712b4a21086568" src="https://user-images.githubusercontent.com/110379185/194010618-dc460ddf-9d10-4fce-a354-12f94c81952f.png">
-()
-
-
 
 
 
